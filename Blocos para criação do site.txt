@@ -2,8 +2,10 @@ criando a caixa de login, tudo dentro do FORM:
 > usar a tag FORM
 > criar divs para login e senha
 > tag buttom: criar uma div para o Botão de Entrar
+> tag span para usar a flag de lemmbrar ou não a senha
 
 links de logo:
 criar divs para: o header, logo netflix, facebook etc
 
 adicionando a imagem:
+adicionar a imagem dentro do css, não criar div
